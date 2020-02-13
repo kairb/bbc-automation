@@ -1,1 +1,3 @@
-##Simple Java, cucumber, selenium project to test automation
+# Automated testing project
+
+Simple Java, cucumber, selenium project to practice automated testing/QA

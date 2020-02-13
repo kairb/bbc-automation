@@ -1,11 +1,7 @@
 # new feature
 # Tags: optional
 
-Feature: BBC
-
-  Scenario: homepage loads correctly
-    Given the user loads page "https://www.bbc.co.uk/"
-    Then the page should render correctly
+Feature: Sign-in
 
   Scenario: user can navigate to sign in screen from homepage
     Given the user loads page "https://www.bbc.co.uk/"

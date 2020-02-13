@@ -59,6 +59,18 @@ public class StepDefs {
         driver.click(driver.findById("submit-button"));
     }
 
+    @When("the user clicks news")
+    public void the_user_clicks_news() {
+        // Write code here that turns the phrase above into concrete actions
+        throw new io.cucumber.java.PendingException();
+    }
+
+    @Then("the user should be redirected to the news page")
+    public void the_user_should_be_redirected_to_the_news_page() {
+        // Write code here that turns the phrase above into concrete actions
+        throw new io.cucumber.java.PendingException();
+    }
+
 
 
     @After
